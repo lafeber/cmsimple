@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'jquery-rails', "~> 2.0.2"
   s.add_runtime_dependency "mercury-rails"
   s.add_runtime_dependency "cells", "~> 3.8"
-  s.add_runtime_dependency "carrierwave", "~> 0.5.8"
+  s.add_runtime_dependency "carrierwave"
 
   s.add_runtime_dependency "spine-rails", "~> 0.1"
   s.add_runtime_dependency "coffee-script-source", "~> 1.2.0"
